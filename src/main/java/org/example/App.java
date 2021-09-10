@@ -13,6 +13,6 @@ public class App
         String Quote = nameOfUser.nextLine();
         System.out.println( "Who said it?");
         String Name = nameOfUser.nextLine();
-        System.out.println(Name+" says,\" "+ Quote +"\"");
+        System.out.println(Name+" says,\""+ Quote +"\"");
     }
 }
